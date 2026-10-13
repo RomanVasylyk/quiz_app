@@ -1,4 +1,4 @@
-# hello_world
+# Kvízová aplikácia
 
 A new Flutter project.
 
